@@ -1,0 +1,11 @@
+img/demo/demo-4
+img/menu
+
+https://www.newline.co/fullstack-react/30-days-of-react/
+https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-18-04-quickstart
+https://www.youtube.com/watch?v=8qZicsI5YjQ
+https://www.cloudways.com/blog/create-laravel-blade-layout/
+https://phambinh.net/bai-viet/dung-tim-cach-xoa-public-tren-url-laravel/
+https://hocwebchuan.com/tutorial/laravel/
+https://www.youtube.com/watch?v=A_uKGqbo3pE
+https://www.youtube.com/watch?v=ad9COizn9kI&list=PLzrVYRai0riS_Y2L0Ox_gUL9UjPDL8p2i&index=5
